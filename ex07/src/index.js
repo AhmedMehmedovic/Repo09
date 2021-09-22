@@ -6,7 +6,7 @@ function logicalAndOperator(num){
     return "No";
    
 }
-logicalAndOperator(60);
+
 console.log(logicalAndOperator(0));
 console.log(logicalAndOperator(24));
 console.log(logicalAndOperator(45));

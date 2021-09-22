@@ -10,7 +10,7 @@ function inverseWhile() {
 
 }
 
-inverseWhile();
+
 // Only change code above this line
 console.log(inverseWhile());
 module.exports = inverseWhile;

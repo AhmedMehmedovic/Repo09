@@ -6,7 +6,7 @@ function logicalOrOperator(num){
     return "In";
    
 }
-logicalOrOperator(1);
+
 console.log(logicalOrOperator(0));
 console.log(logicalOrOperator(9));
 console.log(logicalOrOperator(20));

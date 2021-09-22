@@ -9,7 +9,7 @@ function logicOrder(num){
     }
    
 }
-logicOrder(1);
+
 console.log(logicOrder(28));
 console.log(logicOrder(60));
 console.log(logicOrder(110));

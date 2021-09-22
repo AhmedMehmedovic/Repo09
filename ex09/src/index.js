@@ -7,7 +7,7 @@ function functionElse(num){
     }
    
 }
-functionElse(1);
+
 console.log(functionElse(4));
 console.log(functionElse(5));
 console.log(functionElse(6));

@@ -21,7 +21,7 @@ function switchCaseSequential(num) {
     // Write code above this line
     return answer;
 }
-switchCaseSequential(1);
+
 console.log(switchCaseSequential(1)); 
 console.log(switchCaseSequential(2));
 console.log(switchCaseSequential(3)); 

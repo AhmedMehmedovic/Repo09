@@ -18,7 +18,7 @@ function switchCase(letter) {
     // Write code above this line
     return animals;
 }
-switchCase(1);
+
 console.log(switchCase("a")); 
 console.log(switchCase("b"));
 console.log(switchCase("c"));

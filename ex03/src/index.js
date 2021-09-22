@@ -5,7 +5,7 @@ function myEqualFunction(num){
        } 
        return "Not equal";
 }
-myEqualFunction(99);
+
 console.log(myEqualFunction(5));
 console.log(myEqualFunction(23));
 console.log(myEqualFunction("23"));
